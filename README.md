@@ -1,4 +1,3 @@
-# 🎯 Programming Fundamentals Final Project
 # Xonix Game
 ## 📖 Overview
 
